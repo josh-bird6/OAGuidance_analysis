@@ -1,2 +1,2 @@
-# OAGuidance_analysis
-dfsfdsfds
+# Outcome Agreement Analysis  
+This short project analysed the evolving nature of Outcome Agreements (OAs), which are the primary means by which colleges and universities in Scotland demonstrate their value for money. All the information in this repo came from OAs, which are made publicly available annually and can be found on SFC's webiste here: http://www.sfc.ac.uk/funding/outcome-agreements/outcome-agreements.aspx
