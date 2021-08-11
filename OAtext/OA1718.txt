@@ -1,0 +1,561 @@
+words
+
+
+
+
+
+
+Guidance for the development of College Outcome Agreements: 2017-18 to 2019-20Issue date:
+
+Reference:
+ 
+Summary:
+
+
+FAO:
+5 October 2016
+
+SFC/GD/21/2016
+
+Process and framework for developing and negotiating College Outcome                     Agreements
+
+College Principals and regional strategic bodiesFurther information:	
+Contact: Ken Rutherford
+Job title: Assistant Director/Outcome Agreement Manager
+Directorate: Access, Skills and Outcome Agreements
+Tel: 0131 313 6618
+Email: krutherford@sfc.ac.uk
+
+
+
+
+
+
+Scottish Funding Council
+Apex 2
+97 Haymarket Terrace
+Edinburgh
+EH12 5HD
+T 0131 313 6500
+F 0131 313 6501
+www.sfc.ac.uk
+
+
+Contents
+Foreword	1
+Introduction	1
+The Outcome Agreement process: relationships and reporting	1
+Relationship	2
+Reporting	2
+Monitoring	3
+Quality Arrangements	3
+Outcome agreement and quality self-evaluation reporting	4
+On-going monitoring	4
+Development of the process	5
+Outcome Agreement process: Outcome setting and funding	6
+Funding Recovery	6
+Timeline	7
+Table 1: Outcome Agreement AY 2017-18 timeline	8
+The AY 2017-18 Outcome Agreement: priorities for updating	8
+SFC priorities	8
+Table 2: SFC’s national priorities for AY 2017-18	9
+Aspirations and National Measures	15
+Revisions to national measures	15
+Cross cutting themes	16
+Developing the Young Workforce (DYW)	16
+Senior Phase Vocational Pathways	17
+Employer Engagement	18
+Workplace Experience and Work Placement	19
+Modern Apprenticeships	19
+SFC national aspirations for widening access	20
+Access for people from the widest range of backgrounds	21
+Equality and diversity	21
+Care-experienced	22
+Carers	22
+Gender	23
+Access and Inclusion funding	24
+Science, Technology, Engineering & Maths (STEM)	26
+Early Years and Childcare	26
+Employability	27
+European Social Funds	27
+Alignment with Single Outcome Agreement reporting	28
+Land-based Provision	28
+British Sign Language (BSL)	28
+Gaelic	29
+English for Speakers of Other Languages (ESOL)	29
+Student engagement in the development of Outcome Agreements	29
+High performing institutions	31
+Carbon reduction	31
+Financial stability	31
+College Leaver Destination Survey	31
+Student satisfaction and engagement	32
+Table 3: SFC’s National Performance Measures for 2017-18	33
+Table 4: SFC Outcome Agreement and policy area contacts	34
+
+Annexes
+Annex A: Self-evaluation report
+Annex B: Regional context statement and Outcome Agreement template
+Annex C: Access and Inclusion Strategy
+Annex D: Technical guidance 
+
+Foreword
+The Scottish Funding Council (SFC) is committed to working with Scotland’s universities and colleges to make Scotland the best place in the world to learn, to educate, to research, and to innovate. 
+
+With SFC support, our universities and colleges will continue to bring about the Scottish Government’s vision of a smarter, fairer, wealthier and greener Scotland. They will do this by investing in their people and estates, giving learners access to high-quality teaching and well-equipped, sustainable facilities; by working with industry to drive innovation in the economy, recognising and redressing skills gaps, and improving the well-being of citizens; by promoting inclusivity, transforming lives by breaking down barriers and reducing income inequality; and by being outward looking and competitive, actively promoting Scotland on the international stage. 
+
+Working in partnership with our institutions, we want the 317,000 students in our universities and colleges to have the best possible learning experience so that they are equipped to think, to act, and to contribute in their workplaces and in their communities within Scotland – and beyond. Furthermore, we want this opportunity to be available to people from all backgrounds and are therefore committed to working with our institutions to respond to the recommendations of the Commission on Widening Access in its ‘Blueprint for Fairness’1 which asserts Scotland’s ‘moral, social and economic duty’ to tackle inequalities. 
+
+Public bodies should lead the way on Fair Work, ensuring access to good jobs providing security and opportunity to employees, treating them with respect and providing fair reward.  There are currently four colleges and four universities accredited as Living Wage Employers. We would encourage all institutions to become Accredited Employers and to promote the benefits of Fair Work, both through their HR functions and more widely to staff and students.
+
+The Scottish Government’s review of its enterprise and skills agencies is due to report its first phase conclusions in Autumn 2016. This may have an impact on some elements of this guidance, and supplementary guidance will be provided if required. The guidance will also be refreshed in each year of the cycle to reflect the developing priorities of the Scottish Government and SFC. . 
+
+
+Introduction 
+1. This guidance explains the process of negotiating an Outcome Agreement with the SFC for academic years (AY) 2017-20. It also explains how we will monitor previous years’ Outcome Agreements. 
+The Outcome Agreement process: relationships and reporting
+2. The Outcome Agreement process is intended to complement and support a College region’s strategic ambitions and SFC’s decisions take account of the context within which colleges operate. Achieving these ambitions is ultimately the responsibility of the board of the region. An Outcome Agreement should align with a region’s strategy so that it enables the College region to negotiate its contribution toward sector level impacts according to its priorities and strengths. Outcome Agreements demonstrate how colleges are responsive to the skills and education needs in their region. They have become a powerful tool in demonstrating what colleges deliver in return for public investment.
+3. The Outcome Agreement is a joint funding commitment, in which each college region sets out the:
+* Regional context within which a college region operates (this should include a regional plan to agree vocational pathways for Senior Phase learners and the college’s contribution towards the implementation of DYW) see Annex B.
+
+* Outcomes and outputs a college region will deliver, mindful of this regional context, in response to Scottish Government priorities. In most instances these outcomes/outputs will correspond to SFC’s national performance measures. They will be expressed consistently to aid regional and national aggregation and be 
+set-out to include reference to a baseline position, current progress and a future ambition or target for AY 2017-18. 
+
+4. For ten of the 13 regions, the Outcome Agreement will be negotiated and agreed with the single college serving that region. In the three multi-college regions - Glasgow, Lanarkshire and the Highlands and Islands - the Outcome Agreement is negotiated and agreed with the regional strategic body.
+5. For Sabhal Mòr Ostaig (SMO) and Newbattle Abbey College, which are specialist rather than regional colleges, certain aspects of this guidance will not apply. The respective Outcome Agreement Managers will discuss this with the colleges.
+In the case of the University of the Highlands and Islands and SRUC, the college Outcome Agreement is part of a tertiary Outcome Agreement. The respective Outcome Agreement Managers will agree in advance of negotiations which elements of the college and university guidance should be followed.
+Relationship
+6. A strong working relationship with SFC Outcome Agreement Managers and their teams can enhance mutual understanding. Outcome Agreement teams advocate on behalf of colleges and support and challenge them to make more effective contributions to Scottish Government priorities. Outcome Agreement engagements are also a forum where colleges can share and explore their strategic ambitions and strategies with SFC colleagues. 
+7. SFC Outcome Agreement Managers will also consult as appropriate with colleagues in other relevant organisations, including Skills Development Scotland (SDS), Education Scotland (ES) and College Development Network.
+Reporting
+8. Outcome Agreements should be concise documents focused on SFC’s strategic plan priorities outlined in Table 2 below and should include outcomes for the three years from AY 2017-18 to AY 2019-20. 
+9. An outcome-focussed approach has been adopted to improve the outcomes for the individual learner and the Scottish economy as a whole. We want Outcome Agreements to demonstrate how colleges are: 
+* Contributing to a reduction in youth unemployment and improving life chances by  providing all learners with the necessary skills to progress into sustainable employment.
+
+* Ensuring provision is efficiently delivered and meets national, regional and local employer needs through the use and analysis of Regional Skills Assessments (RSAs), Skills Investment Plans (SIPs) and other relevant labour market intelligence.
+
+* Supporting learners to complete their study and achieve successful outcomes.
+
+10. An Outcome Agreement consists of two sections: a regional context statement and an outcome progress table. Colleges should use the SFC measures outlined below, as well as their own indicators and evidence of progress, to capture their contribution to SFC and Scottish Government priorities.
+
+11. Colleges are asked to attach a summary form detailing baselines and targets for national measures to their completed Outcome Agreements. Each region will be provided with a bespoke summary form containing trend data for each measure, and the current baseline for determining future progress. The level of ambition reflected in a region’s Outcome Agreement should be reviewed on a yearly basis. Please contact your Outcome Agreement Manager for more information on the process, and to discuss the details of your region’s agreement.
+Monitoring
+12. Outcome Agreements for AY 2017-18 will be informed by the monitoring of progress and achievements from previous years. This will focus on the AY 2015-16 agreement, and very early progress from the AY 2016-17 agreement. We will discuss progress with colleges throughout the year. The monitoring process includes a number of key stages, which are set out below.
+Quality Arrangements
+13. Quality assurance and enhancement underpins the Outcome Agreement process and remains a continuing requirement of colleges and a condition of funding. The quality arrangements enable SFC to discharge its statutory duty for the assessment and enhancement of quality. 
+14. Following pilot work with three colleges in AYs 2014-15 and 2015-16, SFC and Education Scotland will introduce new quality arrangements and a new approach for all colleges from AY 2016-17. 
+15. AY 2016-17 will be a year of development, during which colleges will work with their SFC Outcome Agreement Manager, Education Scotland College HMI and (where applicable) their Regional Strategic Bodies to respond to the new approach and develop new arrangements in every college. 
+16. SFC's quality duty applies to all publicly funded colleges, i.e. those funded directly by either SFC or a regional strategic body.
+The new approach will integrate quality arrangements reporting with outcome agreement evaluation and reporting. More detail is provided below. In the first instance however, in place of the previous quality statement of assurance colleges provided, we are asking for college Boards to formally pledge/commit, as part of their Outcome Agreement Self-evaluation Report, to engage with ES and SFC during the year of development and to create new arrangements for their college. 17. 
+18. During AY 2016-17 all colleges will work towards developing their first Annual Evaluation Report and Enhancement Plan (in addition to their revised Outcome Agreement). The first of these should be completed by October 2017 and from AY 2017-18 the new quality arrangements will operate fully. 
+19. SFC and Education Scotland will provide outline guidance on the new quality arrangements  and reporting requirements in the autumn, followed by detailed Education Scotland guidance for colleges to replace the current “External quality arrangements for Scotland’s colleges”  by December 2016. 
+Outcome agreement and quality self-evaluation reporting 
+20. All colleges are accountable for the funding they receive and are currently asked to submit an Outcome Agreement self-evaluation report each October showing progress in achieving outcomes supported by the previous year’s funding. The Outcome Agreement self-evaluation report is used by Outcome Agreement Managers to inform their ongoing negotiations with colleges and to contribute towards the monitoring of outcomes.
+21. As mentioned above, for AY 2016-17 there will be no requirement for colleges to produce a Quality Statement of Assurance. The requirement remains however, for colleges to produce an Outcome Agreement Self-evaluation report for October 2016 and further information on how to complete this is contained in Annex B of the SFC guidance document Delivering College Outcome Agreements (AY 2016-17).
+22. For AY 2017-18, colleges will be required to produce a joint outcome agreement and quality self-evaluation report and further guidance on how to complete this is included at Annex A.
+On-going monitoring 
+23. Building on this evidence contained in these reports, we will provide an assessment of progress for each region, which will then be discussed with college regions. This evidence will also be used to inform funding decisions, to aid negotiations over future Outcome Agreements, and to help inform national priorities and areas for collaboration.
+To assist with the monitoring of Outcome Agreements, we will continue to require college regions to provide quarterly data returns using the FES Online reporting system. The first data return will be required by the 11 November 2016, the second by 10 February 2017, the third by 7 July 2017 and the final return by 29 September 2017.24. 
+Development of the process
+25. We have continued to refine the Outcome Agreement process in light of feedback received and the annual evaluation survey. 
+
+
+Outcome Agreement process: Outcome setting and funding 
+26. To manage progress toward achieving Government priorities, funding for colleges will be negotiated annually. Funding is offered on condition that an Outcome Agreement meets the required standard, particularly in terms of the:
+* Impact a college region will deliver.
+* Ambitions and appropriateness of outcomes and outputs.
+* Level of partnership support for its work.
+
+27. The achievement of the aspirations set out within an Outcome Agreement is the responsibility of a college region and SFC has a role to play in supporting this.
+28. We recognise however, that college regions work alongside others in the achievement of outcomes and that some factors are outwith direct college control.
+29. Future funding will be dependent upon delivery against outcomes, and negotiations in relation to past performance will be used to adjust funding.
+30. Decisions to reduce funding would be proportionate and based on holistic considerations of a college region’s performance rather than a mechanistic or formulaic reduction.
+31. Progress and funding will be discussed with individual college regions. Each year as part of the monitoring of progress, SFC will use consistent measures to aggregate the impact of Outcome Agreements and will discuss this progress with the sector.
+Funding Recovery
+32. SFC will consider situations where there is concern over a variation in delivery against Outcome Agreement commitments. This action would involve SFC considering - taking context and ambition into account - whether funding needs to be recovered; taking a holistic view of both good and unsatisfactory progress to arrive at its decision.
+33. We will plan to take our main funding recovery decisions in the spring. This will allow sufficient time for data on progress to be compiled as well as time for SFC committees and the executive to fully review the progress delivered to date. 
+
+34. Funding recovery decisions will take place to ensure that the most effective use of the funding allocated in previous years has been made. To inform its decisions, the SFC Board will consider the region’s governance and progress against the following:
+* Student numbers.
+* Funded mix of provision.
+* Deliverables related to strategic investments and/or projects.
+* Compliance with legislation, regulatory frameworks and good practice.
+
+35. Importantly, as a result of the Outcome Agreement process, SFC will be able to review the progress being made by the sector on an on-going basis within the academic year and will raise pertinent issues with regions as part of on-going engagement and in order to assist regions in the preparation of future Outcome Agreements.
+36. Where SFC determines that funding recovery may be required, regions will usually be informed shortly after. Outcome Agreement Managers will support this process.
+37. A spring announcement of funding recovery allows regions an opportunity for appeal and discussion. This also meets the preferred timescale for the signalling of funding recovery in the accounts and allows sufficient time for the funds to be recovered before the end of the academic year. The existing rules of appeal will apply.
+38. The regular review of Scotland-wide progress will allow us to update our priorities, identify new priorities and revise existing aspirations. This information will be part of the revised annual Outcome Agreement guidance, contributing to the development of the next year’s agreement. 
+Timeline 
+39. We intend to begin discussing the content of AY 2017-18 Outcome Agreements immediately with a well-developed draft due in December 2016 and a final Outcome Agreement submitted by the end of March 2017. 
+40. Initial discussions should also include contributions from, and intelligence provided by, other stakeholders including SDS and ES.
+41. Mindful of the fact that our final timeline will be influenced by a range of external factors outwith the control of SFC, which will include the Scottish Government Spending Review, the indicative timeline is as follows:
+Table 1: Outcome Agreement AY 2017-18 timeline
+ActivityDeadlineGuidance updated and published October 2016Data sets for FE and HE released to institutions by SFCSeptember/October 2016Self-evaluation progress report on 15-16 Outcome Agreement submitted 31 October 2016Well-developed draft Outcome Agreement submitted16 December 2016FeedbackJanuary 2017Final Outcome Agreement submitted 31 March 2017Publication of Outcome AgreementsApril 2017The AY 2017-18 Outcome Agreement: priorities for updating
+SFC priorities
+42. The Scottish Government’s post-16 education reform priorities are to: improve life chances; support jobs and growth; and ensure sustainable post-16 education. Existing priorities have been strengthened and developed along with the inclusion of some new priorities for AY 2017-18 and beyond. Significantly, the Government has stated its intention to develop a world-class vocational education system. Scotland’s Youth Employment Strategy has identified new priorities which are covered by SFC’s strategic aims of High Quality Teaching and Learning. 
+43. The college sector will play a key role in delivering these priorities; OAs will be used to demonstrate the contribution made by each region and the sector as a whole.
+SFC and Scottish Government would particularly like to hear how colleges are working collaboratively to maintain their relationship with partners in the EU. 44. 
+45. In setting out their aspirations, colleges are asked to submit a summary of baselines, milestones, and targets as an attachment to their outcome agreement. This summary will form an integral and critical part of the final agreement. In advance of annual negotiations SFC will issue a bespoke pro-forma to each institution with the current baselines for each of the measures of progress.
+Table 2: SFC’s national priorities for AY 2017-18 
+Priority 1: High Quality learning and teaching – an outstanding system of learning that is accessible and diverse where students progress successfully with the ability, ideas and ambition to make a difference OutcomesCommitments, strategies and/or evidence of progress Measure of progressAccess
+
+A more equal society because learning is accessible and diverse, attracting and providing more equal opportunities for people of all ages, and from all communities and backgroundsIdentify and address under-representation from protected characteristic and socio-economic groups, providing evidence of positive action to:
+
+• Increase (where under-represented) the participation of learners from all protected characteristic groups.
+• Support care experienced learners.
+• To best demonstrate a college region’s role in access and inclusion (this can also include contextual information about students such as caring responsibilities  - especially for younger students - and the use of bursary/EMA and student support discretionary funding).
+• Recognise the compounded disadvantage that can result where socio-economic disadvantage and protected characteristics inter-relate.
+
+Regions should improve data collections to include all protected characteristics. 
+
+Increase the proportion of Credits delivered to learners from the 10% most deprived postcode areas.
+
+* Reduce gender disparities for learners within particular subject areas, where they exist.
+* Colleges to reflect on their contribution to the National Ambition for Care-experienced Students
+* College regions plan for and deliver their contributions to Opportunities for All2. 
+
+Equality and diversity should be considered in relation to all of SFC’s priorities. In particular to respond to the general and Scottish specific duties of the Equality Act (2010); including: Mainstreaming of equality and diversity within the OA process.
+
+Build on the outcomes from the action-learning pilot work to implement the new quality approach and the integration of the new quality arrangements and OA evaluation and reporting. 
+* Credits delivered.
+* Volume and Proportion of Credits delivered to learners aged 16-19 and 20-24.
+* Volume and proportion of Credits delivered to learners in the most deprived 10% postcode areas.
+* The volume and proportion of Credits relating to learners from different protected characteristic groups and care-experienced learners (where data is available).
+* Volume and proportion of Credits delivered to learners enrolled on STEM courses.
+* Number of senior phase age pupils studying vocational qualifications delivered by colleges.
+* Volume and proportion of Credits delivered to senior phase age pupils studying vocational qualifications delivered by colleges.
+* Volume and proportion of Credits delivered to learners at S3 and above as part of 'school-college' provision. 
+* Volume and proportion of Credits delivered at HE level to learners from SHEP schools (i.e. Secondary schools with consistently low rates of progression to higher education).An outstanding system of learning where all students are progressing successfully and benefiting from a world-class learning experience, in the hands of expert lecturers delivered in modern facilitiesImprovement in retention and the proportion of students, including protected characteristic groups and learners from the 10% most deprived postcode areas, successfully completing qualifications.
+
+Increase the number of students articulating to university with advanced standing.
+
+In considering college curriculum, reflect on whether there are clear unmet needs within the region and how the region might need to reprioritise its existing resources in the short-medium term.
+
+Improve the range and spread of provision within and across each region, ensuring that provision (and infrastructure) is targeted towards the needs of the communities and employers in the region.
+
+Secure commitments which will ensure the ongoing sustainability and reflects unmet demand across the piece, of provision in English for Speakers of Other Languages.
+
+Identification of clear learning pathways using the Scottish Credit and Qualifications Framework (SCQF) levels wherever possible. We would encourage colleges to continue to credit rate provision not already credit rated onto the SCQF, allowing learners to gain credit for their learning wherever possible. 
+
+To ensure that learners are aware of the SCQF level and credit allocated to their qualifications and that the SCQF is promoted within college publications.
+
+Employability of disabled learners.
+* The number of starts for direct contracted apprenticeships (e.g. in CITB, SECTT).
+* Improvement in the proportion of early leavers and further student withdrawals (FT & PT).
+* Proportion of enrolled students successfully achieving a recognised qualification (FT & PT).
+* Proportion of enrolled SIMD10 students (i.e. learners from the 10% most deprived postcodes) successfully achieving a recognised qualification (FT & PT).
+* Proportion of senior phase age pupils successfully completing a vocational qualification delivered by colleges.
+* The number and proportion of successful learners who have achieved HNC (SCQF level 7) or HND (SCQF Level 8) qualifications articulating to degree level courses (SCQF level 9) with advanced standing.
+A more successful economy and society with well prepared and skilled students progressing into jobs with the ability, ideas, and ambition to make a differenceSupport the implementation plans in the Scottish Government’s youth employment strategy - DYW by working in partnership with Local Authorities, schools and employers to increase the range of high quality senior phase vocational pathways to employment.
+
+Local authorities, schools and colleges to map STEM provision in their area and where appropriate, prioritise the development of relevant new vocational pathways in this area.
+
+Provide a baseline of current provision in relation to work placement with reference to the new Work Placement Standard for Colleges, and express ambitions for growth.
+
+Detail the level and extent of employer engagement in course and curriculum design and delivery and the impact on college leaver employability.
+
+Ensure all vocational courses include a significant element of relevant, high quality work experience.
+
+Promote the delivery and expansion of Foundation Apprenticeships and other appropriate qualifications in the delivery of senior phase vocational pathways.
+
+Promote opportunities for the development of partnerships with universities for the delivery of Graduate Level Apprenticeships.
+Make more explicit responses to identified skills needs of employers by providing evidence of how SIPs, RSAs and other relevant Labour Market Intelligence (LMI) is utilised to inform the development of the curriculum offer. 
+* Student Satisfaction and Engagement Survey - the percentage of students Overall, satisfied with their college experience.
+* The number and proportion of full-time college qualifiers in work, training and/or further study 3-6 months after qualifying.
+* Number of full-time learners with “work experience” as part of their programme of study.High-performing institutions – a coherent system of high-performing, sustainable institutions with modern, transparent and accountable governance arrangementsColleges are asked to summarise how they ensure continuous improvements in the quality of their governance; promote equality and diversity in all their activities; and demonstrate enhanced sustainability – securing best value for public investment. Summaries should outline how colleges: 
+
+* Contribute to the delivery of Climate Change (Scotland) Act 2009 targets for significantly reduced greenhouse gas emissions.
+
+* Intend to achieve their 2020 target for carbon reduction (colleges and HEIs).
+
+* Address statutory requirements to eliminate discrimination, advance equality of opportunity and foster good relations.
+
+* Use data and consultation processes to evidence and address under-representation of protected characteristic groups.
+
+* Comply with the terms of the Financial Memorandum (FM) with SFC. Key requirements of the FM include:
+
+o Colleges and regional strategic bodies meet the Code of Good Governance for Scotland’s Colleges. 
+o College Boards have clear ownership of institutional financial health and regional strategic bodies ensure the colleges they fund are financially stable.
+o College regions explore and exploit opportunities to improve efficiency and effectiveness through collaborations and shared services.
+* Gross carbon footprint (3 year period)
+
+
+Aspirations and National Measures
+46. Colleges are asked to share their aspirations for improvement using the national priorities outlined in Table 2. In setting out their aspirations colleges are asked to use the pro-forma as an annex to their Outcome Agreement. This will allow SFC to discharge its responsibility to Scottish Government and Scottish Parliament to account for the effectiveness of public funding for the sector in securing national priority outcomes.
+47. Aspirations for progress against measures should cover the three year period from AY 2016-17. The information shown in the pro-forma table should be interpreted through the regional context statement. The measures draw on FES data and a small number of other data sets in everyday use by the sector (see Annex B) and therefore should not represent a significant additional reporting burden on colleges.
+48. Where progress on the measures is reported, this should be done consistently and with reference to both the technical annex to this paper (Annex D) and the baseline agreed with SFC. 
+49. As outlined earlier, we encourage colleges to submit their own measures of progress in addition to those outlined in Table 2 to supplement national measures; particularly in relation to DYW and access. 
+Revisions to national measures
+50. Table 3 shows the national measures for AY 2017-18. The following revisions were made to the AY 2016-17 measures: 
+* Refined the measure for STEM courses to include additional ‘superclasses’.
+* Removed the measure on profound and complex needs as the significant variance in colleges’ definition of profound and complex needs meant we could not report nationally on the information being returned.
+* Added a question from the Student Satisfaction and Engagement Survey (Q1) in light of the full national pilot year in AY 2015-16.
+* Due to the priorities around widening access, greater focus has been placed on success for subgroupings, including SIMD10 and senior phase vocational pathway learners; this is reflected in the addition of two new sub-measures.
+
+51. It is important to note that the developed workforce measures alongside school-college measures will be revisited and reworked as the Government develops the DYW programme in partnership with SFC and other bodies. For AY 2017-18 we expect to move to measuring school-college attainment as well as volume.
+52. Table 3 clarifies which measures and aspirations are to be reported in terms of proportion, volume or both. The volume figure is required to enable SFC to aggregate the regional aspirations and produce the aspiration for the sector. 
+Cross cutting themes
+53. In delivering against these priorities SFC expects college regions to refresh their Outcome Agreements to address the following new priorities.
+Developing the Young Workforce (DYW)
+54. AY 2017-18 will be year four of the seven year plan to deliver DYW: Scotland’s Youth Employment Strategy. For SFC our main, but not only, contribution towards this is to grow college provision for school pupils in the Senior Phase (to increase the numbers attaining a vocational qualification by the time they leave school (KPI 3 of the plan) and to increase the gender share in the most imbalanced superclasses ( KPI 8 of the plan)). So far we have seen an increase in the percentage of school leavers attaining vocational qualifications at SCQF level 5 and above from 7.3% in 2013-14 to 9.0% in 2014-15.  We would expect to continue growing this in all regions and this will include delivery of foundation apprenticeships in collaboration with SDS. 
+55. This guidance for AY 2017-18 onwards will, again, be targeted to the Senior Phase and all 16 to 24 year old college students,  and will focus on:
+* Supporting the development of strategic partnerships between local authorities, schools and colleges.
+* Setting targets to overcome gender imbalances in the most gendered subject areas.
+* Introducing new approaches that allow more school pupils to begin a vocational pathway as part of their senior phase curriculum.
+* Achieving recognised qualifications on the SCQF.
+* Securing guaranteed progression seamlessly to further learning, training or work.
+
+56. There are also commitments which colleges can directly contribute towards in relation to the employment rate of young disabled people and positive destinations for looked after children. It is also likely that KPI 4 of the plan - which relates to the progression and positive destinations of young college students - will become more prominent once the data is verified.
+
+57. The level of commitment from colleges to DYW activity (as evidenced through the 2016-17 Outcome Agreements) is impressive and we are confident of overall growth in this area beyond the activity delivered in AY 2014-15 and committed to, through the current Outcome Agreements for 2016-17. Colleges have outlined a commitment to gender but there is a need for a more focused approach to reduce significant subject imbalances as included within the Senior Phase cohort. 
+58. DYW identifies young disabled people, care-experienced learners and young people from black and ethnic minorities as groups who experience particular inequalities in vocational education and, subsequently, employment. As a consequence, they are significantly more likely to experience unemployment than their peers, outwith these groups. As acknowledged elsewhere, colleges have a key role to play in delivering improvements but they cannot do it alone. Colleges should outline how they will work with partners to increase participation of these and other protected characteristic groups.
+Senior Phase Vocational Pathways
+59. One of the key themes of DYW: Scotland’s Youth Employment Strategy is that schools and colleges work in partnership to develop new vocational pathways, creating opportunities for all young people in the senior phase to study vocational qualifications alongside other learning. These pathways should focus on labour market need; prioritise STEM subjects if there is an identified skills gap in the region; and be developed in a way that achieves gender balance and supports key equality groups. The development, delivery and upscaling of effective pathways should feature prominently in Outcome Agreements, along with colleges’ responsibility for enhancing the quality of such new pathways as well as wider vocational education.
+60. Establishing vocational pathways of this kind as a mainstream option represents a step change in the scale and scope of activity as well as the nature of its delivery. Successful planning and delivery will therefore demand partnerships between colleges, schools, local authorities and employers of a higher order. We support the scale of the Scottish Government’s ambition, and have enhanced the Outcome Agreement measures to ensure they align to national expectations and provide robust evidence of the sector’s contribution and progress. The final evaluation of the Early Adopter projects3 identified the key features for successful vocational pathways development including: strategic leadership; regional co-ordination; effective employer engagement and promotion within local authorities and schools of the value of vocational pathways.
+61. In support of the SFC/SDS Joint Framework for Action, to deliver the Scottish Government’s Youth Employment Strategy, colleges will have a key role in delivering the introduction and scaling of the Foundation Apprenticeship for senior phase pupils. We expect college regions to develop appropriate plans for their aspirations in this area in the context of their broader senior phase vocational pathways offer.
+62. The ambition for work based learning pathways also involves the development of work based learning programmes that deliver higher educational content in work based learning setting. As Graduate Level Apprenticeships are being developed, there will be opportunities for colleges and universities to collaborate in their development and delivery. 
+Employer Engagement
+63. Progress on the development of effective partnerships with employers and industry/business groups will be monitored through Outcome Agreements. Previous Outcome Agreements have not always demonstrated the extent and effect of employer engagement in course and curriculum design and delivery. For 2017-18 college regions should provide detail of the level and scope of employer engagement within curriculum areas and outline how this engagement impacts on student experience and employability. 
+64. At national level, the Government is supporting the development of industry-led DYW groups across Scotland which will have a lead role in facilitating effective engagement between education and employers. The new DYW regional groups are currently at different stages of development, but we expect colleges to have a role in supporting the formation and operation of them in a way that significantly enhances their current arrangements.
+65. College performance will be judged substantially on the basis of student employment outcomes, reflecting the significantly increased focus of colleges on employability.
+Workplace Experience and Work Placement
+66. The Commission suggested that a principal means of aligning provision with labour market need is to ensure all vocational courses, including those delivered in the senior phase, comprise a significant element of relevant, high quality work placement and workplace experience. It also highlights the potential of work experience to help address inequalities in vocational education and employment. SFC, therefore, expects colleges, in partnership with schools and employers as appropriate, to: ensure all vocational provision includes such workplace experience or work placement; addresses gender imbalance; and, prioritises young disabled people and others who experience inequalities. 
+67. Although workplace experience, work placement and work related learning (for example enterprise education) already forms part of many courses, this again represents a significant scaling up of activity. We expect colleges to play a central role in co-ordinating such opportunities, and in expanding their availability and enhancing their quality. There is also a clear onus on local authorities and schools as well as industry and business to play its part. The new DYW groups are expected to support such expansion.
+68. In conjunction with colleges and other partners SFC developed standards for work placement which were published in September 2016. The aim of the standard is to significantly and consistently improve the future employment prospects of all students by providing guidance for colleges and employers and highlighting best practice in the sector. Colleges should ensure that the guidance within the standard is consistent with their delivery of work placement and work place experience
+69. SFC has included “work experience” course and unit indicators to FES to begin to collect and measure “work experience” activity. 
+Modern Apprenticeships
+70. MAs are a key vehicle for effective workforce development. The plan to increase the number of MAs to 30,000 by 2020 highlights the potential for colleges to make a greater contribution to the development and delivery of high quality MAs. Continuing improvement of quality and flexibility around delivery are key to colleges wishing to increase activity in this area. For Measure 5 SFC expect colleges to report on the total number of MA starts contracted from Skills Development Scotland (SDS) and other industry bodies such as Scottish Electrical Charitable Training Trust (SECTT) and Construction Industry Training Board (CITB).
+SFC national aspirations for widening access
+71. Building on Scottish Government priorities and ministerial letters of guidance, SFC’s national aspirations for the three year period beginning AY 2017-18 are set out below.
+I. At least 60% of HN entrants to university should articulate with advanced standing per year by AY 2019-20 rising to 75% by AY 2025-26.
+
+II. Between 17% and 18% of college activity (credits) per year should be delivered to college students from a SIMD10 postcode area by AY 2016-17 rising to 19.5% per year by AY 2019-20 and 20% by AY 2020-21.
+
+III. The percentage of enrolled (full-time) students successfully achieving a recognised qualification on the SCQF should increase to 69.0% by AY 2016-17 and 73.2% by AY 2019-20 for FE and should increase to 72.0% by AY 2016-17 and 74.4% by AY 2019-20 for HE. We want greater ambition and parity between FE and HE success and aspire to achieve 75% in both by AY 2020-21.
+
+IV. The percentage of enrolled (full-time) students from a SIMD10 postcode successfully achieving a recognised qualification on the SCQF should increase to 67.3% by AY 2019-20 and 75.0% by AY 2027-28 for FE and should increase to 70.5% by AY 2019-20 and 75.0% by AY 2027-28 for HE.
+
+V. Increase by 5 percentage points the minority gender share in each of the 10 largest and most imbalanced superclasses by 2021. As a milestone we will look to increase the minority gender share by 4.2 percentage points by AY 2019-20.
+
+VI. By AY 2018-19 the ambition for care experience is to: increase intake from 733 in the College sector to 800; increase the FTHE college numbers who successfully complete their course from 66% to 71%; and increase the FTFE college numbers who successfully complete their course from 61% to 66%. We expect the sector to continue to ensure that the gap between outcomes for those with care experience and those without is narrowed, aiming for parity by 2021.
+Access for people from the widest range of backgrounds
+72. ‘Access to people from the widest range of backgrounds’ remains a key priority for SFC. The sector’s record in recruiting students from deprived backgrounds is strong and we want you to continue this record. 
+73. The Outcome Agreements should use the SFC baselines provided and be clear in describing the intended progress both in proportionate and absolute terms. This should include numbers and percentages and in all cases progress must be ambitious and achievable.
+Equality and diversity 
+74. SFC wants to improve people’s life chances by ensuring learners in Scotland are able to access the highest levels of educational provision and reach their full potential. This is in line with the commitments set out in SFC’s equality outcomes and ambition published on our website [1], and delivered through significant sector strategies and developments, these include: DYW; the Gender Action Plan; SFC’s Access and Inclusion Strategy and implementation of the recommendations within the Commission on Widening Access final report.
+75. To meet the statutory requirement for Equality Impact Assessments (EIAs) of new and revised policies, institutions are required to undertake EIAs of their Outcome Agreements. This process will support colleges to identify priorities for advancing equality in relation to all protected characteristics for the period of the Outcome Agreement. So, a three year OA will only need one EIA every three years and this should be revisited annually if changes are made. 
+76. This process will also support the coordinated development of new equality outcomes. SFC Equality and Diversity leads can advise on the development of new equality outcomes for publication by April 2017, within which there is the opportunity for strategic equality mainstreaming within the OA process. 
+77. SFC funds the Equality Challenge Unit (ECU) and College Development Network (CDN) to support institutions in this work. ECU provides specific guidance on the above for colleges.4
+78.  Our expectation is that colleges will consider whether there are any protected characteristic groups that are underrepresented in their student population – or on particular types of course – and set aspirations for improvement in representation. We do not expect colleges to set targets for every group. 
+79. Over the course of this guidance, SFC will work with institutions to consider the Race Equality Framework for Scotland 2016-20305, and to ensure that people do not face barriers to full participation and successful outcomes across Further and Higher Education. 
+Care-experienced 
+80. Last year we published the national ambition for care-experienced learners6 to address the under-representation and poor educational outcomes of this group. The ambitions themselves focus on intake and successful completions over the period AY 2016-17 to AY 2018-19. They seek to achieve a consistency in success with non-care-experienced learners and to increase intake of care-experienced students into colleges by 31% care-experienced to 800. 
+81. This ambition links to Key Performance indicator 11 in DYW - Scotland’s Youth Employment Strategy which states that the Scottish Government will “increase positive destinations for looked after children by 4 percentage points per annum resulting in parity by 2021.”  It also links to colleges Corporate Parenting responsibilities.
+82. The Children and Young People’s (Scotland) Act 2014 places duties on colleges and universities in relation to young people in care and care experienced learners. OAs should contain an outline of the activity being undertaken to remove barriers to participation and to achieve successful outcomes among care-experienced learners, including activity under the Act and any joint working with schools – mainstream, specialist and residential to ensure a successful transition for individuals, retention while at college and progression to positive destinations thereafter.
+Carers 
+83. Colleges are asked to include a statement in their agreements outlining their current and future commitments to support students and staff who are carers, and – where known – state the number of individual staff and students who are carers. The Carers Trust defines a carer as follows: 
+
+‘A carer is anyone who cares, unpaid, for a friend or family member who due to illness, disability, a mental health problem or an addiction cannot cope without their support’. 
+84. The statement on carers should also outline how colleges identify carers including students or staff who become carers during the year, promote a positive declaration environment, support carers, and how they work in partnership with local authorities to help them meet their duty under the Carers (Scotland) Act 2016. The SFC and the Scottish Government are supportive of the Carers Trust ‘Going Higher’ campaign7 and although this campaign is targeted at universities we encourage both colleges and universities to evidence their support for this through their outcome agreement. 
+Gender 
+85. The Scottish Government, through DYW, has set out its ambitions for colleges to address gender imbalances at subject level, within the following KPI to ‘increase by 5 percentage points the minority gender share in each of the 10 largest and most imbalanced superclasses among 16-24 year olds by 2021’. DYW also committed SFC to publishing a gender action plan setting out how we would work with the sector to tackle gender imbalances – we published this on 12 August 2016.8 
+86. Building on last year’s OAs, we ask for all colleges to outline their key ambitions to tackle gender imbalances at a subject level within their Outcome Agreements. These should be clear outcomes focused on the subjects with the greatest gender imbalances at the college. Where these do not correspond with those included within the Government’s KPI, this should be discussed with your Outcome Agreement Manager. We also ask colleges to identify where they have an imbalance between male and female students within completion by subject and to outline the outcomes they hope to achieve in addressing the imbalance. 
+87. We also invite colleges to highlight how through responding to the Public Sector Equality Duty they are proactively promoting gender equality in relation to their staff and to their governing body. This should include reporting on progress with addressing gender imbalances at senior academic level and how they are working towards eliminating the gender pay gap. In addition, institutions will be aware of the Gender Balance on Public Boards legislation announced in the Programme for Government and we ask that colleges describe how they are working towards improving gender balance on their Board.
+88. We ask that all activity towards achieving these outcomes is outlined within an institutional or regional gender action plan. 
+89. Your Outcome Agreement Manager will discuss this with you on a regional basis. For further detail on expectations relating to work on gender imbalance, in particular more detail on institutional gender action plans, see Annex B.
+Access and Inclusion funding
+90. The SFC has completed a full review of Extended Learning Support (ELS). The funds allocated for ELS have been renamed to Access and Inclusion Funds and these are allocated to colleges for the purpose of enhancing their inclusive practices and meeting the needs of their students. We expect colleges to use their funds to deliver a parity of intake and outcome for their students so that all students have an equal chance of successfully completing their programme of learning. For this reason, our guidance on this funding should be read in conjunction with the college’s legal responsibilities as outlined in the Equality Act 2010. 
+91. To evidence how colleges are using these ring fenced funds, colleges are expected to complete an Access and Inclusion Strategy. This strategy should align to the needs of your region as outlined in your Regional Context Statement. 
+92. More guidance on the Access and Inclusion Strategy is provided in Annex C9 but it should be noted that this strategy should have at least four component elements.
+* The Access and Inclusion approach adopted at the college to meet the needs of your students including evidence and key learning points about what works well.
+* How the access and inclusion fund is used to support this approach. Please note we do not require a detailed financial report but a high level overview of what these funds contribute would help us understand what would not be possible without this funding. Colleges may wish to consider outlining how they use these funds to contribute to or fully support specialist teams and posts, CPD programmes and ICT investments. This list is not meant to be specific or exhaustive.
+* The expected impact that this approach will have on the Performance Indicators at the college particularly the successful completion rates at the college.
+* The impact that this approach has on the intake and outcomes of the priority access groups outlined in the annex. 
+
+93. This new approach means that there will no longer be an ELS flag in FES, but it also means that we must collectively work to improve our data collections if we are to adequately assess the impact that this approach specifically has on our priority access groups at a regional and national level. 
+94. The SFC has undertaken to significantly improve our recording of our priority access groups by providing additional data flags such as improving the flags available to record disability, care experience, profound and complex needs and carers. We will also, though our OA   Managers, provide colleges with information on our priority access groups at their college and at a Scottish level. 
+95. We ask colleges to promote positive declaration environments for their students and to use where possible student intranets and portals to ensure we capture student data throughout the year and not just at key points such as application and enrolment. This is also particularly important as students’ needs will change throughout the year.
+96. As part of this process, colleges will no longer need to have student Personal Learning Support Plans (PLSPs) audited for either their ELS or Price Group 5 provision. PLSPs were highly praised as a process during the ELS review and we encourage colleges to continue to use these when it is in the best interest of the student. We also encourage the college to use learning plans for all their students as we see this as good practice. For students whose needs cannot be met through your inclusive approaches alone we expect you to complete a PLSP.
+97. The SFC executive will consider your Access and Inclusion Strategy in relation to the funds you are being allocated and the needs of your region. We will also monitor the intake and outcome ambitions you have set for your priority access groups. When considering this performance we may take into account representation of the priority access groups at a regional, subject and Scottish level. We will prepare and publish a national overview of all the strategies to better evidence the national use of the resource allocated for this purpose. 
+98. Colleges should discuss their allocation of Access and Inclusion Funds in relation to the core funding and the needs of their region with their Outcome Agreement Manager. There are two reasons for this, firstly it may be possible on receipt of a highly evidenced case to consider the split between Core and Access and Inclusion funding and secondly it will assist us as we consider a future allocation model for this new approach. Moving forward these funds will be allocated on the basis of a funding model and will not be allocated on the basis of previous ELS claims. To prevent any disruption to college business we have decided to work on this model in collaboration with the sector over the next few years with a view to implementing a new approach for AY 2019-20 onwards. 
+Science, Technology, Engineering & Maths (STEM)
+Education Working for All! concludes that an adequate supply of STEM skills is critical to growing Scotland’s key economic sectors and that to secure this supply the number of young people achieving STEM qualifications should be increased. As a primary provider of STEM courses, colleges will clearly have a significant role to play in delivering this objective. We recommend that colleges use the information from SIPs and RSAs as well as their own engagements with local employers to assess the need for provision and map existing provision. Where there is an identified need they should expand STEM courses in their general provision and prioritise STEM subjects in developing new senior phase vocational pathways with local authorities.99. 
+100. To support the sector to target and expand STEM provision in a way that is coordinated and impactful, we will work with the Scottish Government and other partners to develop a STEM strategy for Scotland. 
+Early Years and Childcare
+101. Scottish Government’s planned expansion in early learning and childcare will have a significant impact on the demand for qualified childcare practitioners in the coming years. Scottish Government have committed to almost doubling the funded early learning and childcare entitlement to 1,140 hours/year by the end of the next parliament which means that the workforce will need to grow significantly. The training of additional practitioners, through the suite of qualifications for early learning and childcare practitioners and Managers, will form a key part of the required workforce expansion; therefore, throughout this three year cycle of OAs (2017-20), colleges will need to work closely with SFC and Scottish Government to respond the demand for additional high quality early years staff to meet this commitment.
+Employability
+102. In order to respond to the Scottish Government’s priorities of ‘improved life chances’ and ‘jobs and growth’, SFC wants college regions to support unemployed people to develop employability skills to enable them to get a job, keep a job and or train for a career. In particular, SFC wants all college regions to set out in their OA their plans in relation to employability provision.
+103. SFC expects colleges to demonstrate that their employability offer is aligned to the Strategic Skills Pipeline, responds to the needs of local employability partners and retains a strong focus on positive outcomes. 
+European Social Funds 
+104. SFC has been managing two new European Social Fund (ESF) project from AY 2015-16 as part of the new 2014-20 programme. 
+105. For the initial three year period of AYs 2015-16 to 2017-18 this covers two strategic interventions:
+* ‘Youth Employment Initiative’ (YEI) for colleges in South West Scotland.
+* ‘Developing Scotland’s Workforce’ (DSW) for Lowlands and Uplands Scotland (LUPS) colleges and the Highlands & Islands (transitional funding).
+
+106. Subject to the timing of Scottish Government approval of AY 2017-18 Operational Programmes, ESF outcomes will be incorporated into regional Outcome Agreements. This means that Outcome Agreement Managers will discuss each region’s plans for the use of their additional ESF activity in the context of the negotiations about how they will use their core activity – allowing colleges to plan additional ESF activity at the same time as core provision, bringing about greater coherence in the use of funds.
+107. We expect each college region to liaise and work with their local Community Planning Partnerships (CPPs) to ensure that college planned ESF activity supports, and is complimentary to, CPP activity and is aligned with its Outcome Agreement, particularly the regional context statement. This is an annual process.
+Alignment with Single Outcome Agreement reporting 
+108. SFC expects colleges to make an effective contribution to community planning. Ideally, this includes having senior decision-makers actively participating at a strategic level in relevant CPPs.
+109. SFC wants Outcome Agreements to demonstrate that colleges are informing the development of, and contributing effectively to, the delivery of Single Outcome Agreements (SOAs). 
+Land-based Provision 
+110. SRUC is a tertiary institution that offers qualifications from non-advanced level right through to degree level and beyond. Along with other regional colleges, SRUC provides for the needs of the land-based industries across Scotland and as such, the delivery of land-based education and training does not fit well with the regional model. 
+111. During AY 2014-15 the National Land-based Strategy Group (NLSG) was established to take forward the recommendations of the National Strategy for Land-Based Education and Training and to plan and implement future provision across Scotland. This group of colleges, led and co-ordinated by SRUC, have been tasked with developing and delivering a collaborative mechanism by which the needs of the land-based industries in Scotland will be met by a coherent, national offer of provision.
+112. As part of their Outcome Agreement discussions, institutions must review the regional distribution and demand for land-based courses and explore opportunities for collaborative growth or rationalisation with other colleges. SFC expects institutions to engage with the NLSG to ensure a collective and cohesive approach to land-based education.
+113. For their part, SRUC and the other land-based providers will be asked to provide details in their Outcome Agreements of the collaborative process and any subsequent impact on provision.
+British Sign Language (BSL)
+114. SFC is committed to supporting the implementation of the British Sign Language (Scotland) Act 2015. We will contribute to the development of the BSL National Plan over AY 2016-17 and will support colleges and universities to develop their individual plans. Through these plans we will seek to increase awareness of BSL and demonstrably improve access to services for Scotland’s deaf and deafblind population over the three year Outcome Agreement period. We will be working closely with the Scottish Government, Scottish Council on Deafness, Deaf Action, students, colleges and universities and others to advance this work.
+Gaelic 
+115. All Outcome Agreements should include detail of their contribution to the aims of the current National Gaelic Language Plan (NGLP) – noting that there will be a new NGLP for 2017. Contributions include maintenance and development of provision: 
+* For Gaelic learners.
+* For Gaelic speakers among their staff, students and others with whom they engage.
+
+116. We continue to expect all college regions to demonstrate that they have:
+* Examined evidence on Gaelic use, and demand for use and learning, in their communities.
+* Considered the appropriate level of support for the language, including potential new provision to fill identified gaps and.
+* Considered and provided undertakings on how they will build and protect their Gaelic provision, including staff development and succession planning.
+English for Speakers of Other Languages (ESOL)
+Colleges to ensure they have identified and appropriately resourced their regional needs for the provision of ESOL.117. 
+Student engagement in the development of Outcome Agreements 
+118. Consistent with the approach to student engagement in quality, SFC expects colleges to show evidence of how the outcomes within the Outcome Agreements have been developed and discussed with college Students’ Associations (SAs). SFC Outcome Agreement Managers will meet with staff, students and SA officers in each college region to discuss Outcome Agreement engagement in general, and more specifically, the SA views on the content of the agreement and how they can contribute towards the achievement of college policy priorities.
+119. The Framework for the Development of Strong and Effective College Students’ Associations in Scotland, and its associated toolkit, includes good practice for the engagement of students on developing Outcome Agreements and we recommend that it is used to guide collaboration between the college and the SA and inform SA development. Outcome Agreements should provide detail of how the Framework is being implemented, including ensuring that SAs are adequately funded.
+
+High performing institutions  
+Carbon reduction
+120. The Climate Change Act sets ambitious targets for carbon reduction and, from 2016, requires institutions to submit a mandatory Climate Change report to the Scottish Government. SFC will monitor sector progress on carbon reduction / energy efficiency through metrics (developed by the college working group on climate change) and an annual estates data return. These will also be useful in assessing the progress and impact of the Council’s 10 year capital funding strategy.
+121. The Scottish Government expects SFC to play a role in making further progress to reduce the carbon footprint of both sectors. We have established a sectoral baseline for colleges, and from 2016-17 we will work with The Environmental Association for Universities and Colleges (EAUC) and Resource Efficient Scotland to help college regions develop their own carbon management plans, including setting projected targets. We will review college regional targets for 2016-17 onwards and take a view on whether – at the regional and the sectoral level – these are sufficient.
+Financial stability
+122. For 2017-18 Outcome Agreements we require a statement that colleges have complied with all the terms of the Financial Memorandum with colleges and HEIs. 
+123. Should our Institutional Finance Governance team within SFC raise any serious concerns about any institution, these concerns will be addressed by that team and the relevant Outcome Agreement Manager will be kept fully informed.
+124. Where there are any identified institutional weaknesses or failures, the Outcome Agreement should reflect an action plan to correct these areas.
+College Leaver Destination Survey 
+125. The College Leaver Destinations (CLD) for full-time qualifiers is now established as an annual collection and an integrated part of the OA process and measures. The collection has been enhanced to include equalities data and to provide useful information for the sector at national, regional and college level.
+126. SFC will continue to work with other agencies such as SDS and Student Awards Agency for Scotland (SAAS) to increase the data linkage to existing datasets to reduce the collection burden on colleges and to further assure the quality of the data. We issue specific guidance annually to support the CLD collection. 
+Student satisfaction and engagement 
+127. Recognising the need to develop the evidence base for student satisfaction and engagement, working with colleges, National Union of Students Scotland (NUSS), Student Participation in Quality Scotland (sparqs), Scottish Government and other relevant agencies, SFC established a working group to develop a survey which would offer a set of measures of student satisfaction and engagement. A national pilot survey was conducted in March – April 2016. Learning from this exercise will be shared with the sector at an event in September 2016. 
+128. Further guidance on the sector-wide survey for AY 2016-17 will follow by the end of 2016. For the AY 2017-18 Outcome Agreement we will expect to discuss college regions’ ambitions with respect to student satisfaction and engagement as part of the Outcome Agreement process, and we will monitor progress on an annual basis. 
+
+
+Table 3: SFC’s National Performance Measures for 2017-18
+MeasureMeasure 1 (a)
+Measure 1 (b)
+Measure 1 (c)
+Measure 1 (d)Credits delivered ( Core / ESF / Core + ESF)
+Volume and Proportion of Credits delivered to learners aged 16-19 and 20-24
+Volume and proportion of Credits delivered to learners in the most deprived 10% postcode areas
+The volume and proportion of Credits relating to learners from different protected characteristic groups and care leavers (where data is available)Measure 2 (a) 
+
+Measure 2 (b)
+
+Measure 2 (c) 
+
+Measure 2 (d)  Number of senior phase age pupils studying vocational qualifications delivered by colleges
+
+Volume and proportion of Credits delivered to senior phase age pupils studying vocational qualifications delivered by colleges
+Volume and proportion of Credits delivered to learners at S3 and above as part of 'school-college' provision 
+
+Volume and proportion of Credits delivered at HE level to learners from SHEP schools (i.e. Secondary schools with consistently low rates of progression to higher education) Measure 3 Volume and proportion of Credits delivered to learners enrolled on STEM courses (TBC) Measure 4 (a) 
+
+Measure 4 (b)
+
+Measure 4 (c)Proportion of enrolled students successfully achieving a recognised qualification (FT & PT)
+
+Proportion of enrolled SIMD10 students successfully achieving a recognised qualification (FT & PT)
+
+Proportion of senior phase age pupils successfully completing a vocational qualification delivered by colleges Measure 5
+The number of starts for direct contracted apprenticeships (including industry bodies such CITB and SECTT)Measure 6
+Number of full-time learners with high quality work placement or work place  “experience” as part of their programme of study Measure 7  The number and proportion of successful learners who have achieved HNC or HND qualifications articulating to degree level courses with advanced standingMeasure 8  The number and proportion of full-time college qualifiers in work, training and/or further study 3-6 months after qualifying Measure 9SSES Survey - The percentage of students Overall, satisfied with their college experienceMeasure 10Gross carbon footprint (3 year period)Table 4: SFC Outcome Agreement and policy area contacts
+
+Region / collegeOutcome Agreement Manager/Policy LeadAlternative contactAyrshire Alison Cook
+acook@sfc.ac.uk Louise Lauchlan
+llauchlan@sfc.ac.uk Borders Keith Coyne
+kcoyne@sfc.ac.uk Ken Rutherford
+krutherford@sfc.ac.uk Dumfries & Galloway Kathy O’Loan
+koloan@sfc.ac.uk Dee Bird
+dbird@sfc.ac.uk Dundee and Angus Fiona Burns
+fburns@sfc.ac.uk   Keith Coyne
+kcoyne@sfc.ac.uk Edinburgh Ken Rutherford
+krutherford@sfc.ac.uk Seamus Spencer
+sspencer@sfc.ac.uk Fife Alison Meldrum
+ameldrum@sfc.ac.uk Linda McLeod
+lmcleod@sfc.ac.uk Forth Valley Alison Meldrum
+ameldrum@sfc.ac.uk Linda McLeod
+lmcleod@sfc.ac.uk Glasgow Linda McLeod
+lmcleod@sfc.ac.uk Paul Travers
+ptravers@sfc.ac.uk Highlands and IslandsSharon Drysdale
+sdrysdale@sfc.ac.uk Hazel MacDonald
+hmacdonald@sfc.ac.uk Lanarkshire Sharon Drysdale
+sdrysdale@sfc.ac.uk Alison Malcolm
+amalcolm@sfc.ac.uk North East Scotland Ken Rutherford
+krutherford@sfc.ac.uk Greg Anderson
+greganderson@sfc.ac.uk West Paul Travers
+ptravers@sfc.ac.uk Linda McLeod 
+lmcleod@sfc.ac.uk West Lothian Seamus Spencer
+sspencer@sfc.ac.uk Ken Rutherford
+krutherford@sfc.ac.uk Newbattle Abbey CollegeKen Rutherford
+krutherford@sfc.ac.uk Keith Coyne
+kcoyne@sfc.ac.uk Sabhal Mòr Ostaig Halena Gauntlett
+hgauntlett@sfc.ac.uk Sharon Drysdale
+sdrysdale@sfc.ac.uk 
+
+
+
+
+
+Policy areasPolicy LeadAlternative contactAccess & Equality
+Fiona Burns
+fburns@sfc.ac.uk Anna Thomson (Access) 
+Carina MacRitchie (Access)
+Halena Gauntlett (Equality)
+athomson@sfc.ac.uk / cmacritchie@sfc.ac.uk /
+hgauntlett@sfc.ac.uk College Core fundingGordon McBride
+gmcbride@sfc.ac.uk Duncan Condie/Gavin Bruce
+dcondie@sfc.ac.uk / gbruce@sfc.ac.uk ESF fundingGavin Bruce
+gbruce@sfc.ac.uk Rebecca Fairgrieve-Stewart
+rfairgrievestewart@sfc.ac.uk Estates and Carbon ReductionMartin Kirkwood
+mkirkwood@sfc.ac.uk Deanne Holden
+dholden@sfc.ac.uk GaelicMorag Campbell
+mcampbell@sfc.ac.uk Kathy O'Loan
+koloan@sfc.ac.uk Leaver destinationsKenny Wilson
+kwilson@sfc.ac.uk Gordon McBride
+gmcbride@sfc.ac.uk QualityAlison Cook
+acook@sfc.ac.uk Keith Coyne
+kcoyne@sfc.ac.uk  DYW Seamus  Spencer sspencer@sfc.ac.uk Ken Rutherford
+krutherford@sfc.ac.uk  SkillsSharon Drysdale
+sdrysdale@sfc.ac.uk Andre Reibig
+areibig@sfc.ac.uk Statistics and data returnsGordon McBride
+gmcbride@sfc.ac.uk Cathy Mitchell / Kenny Wilson
+cmitchell@sfc.ac.uk  / kwilson@sfc.ac.uk  Strategic Dialogue MeetingsKen Rutherford
+krutherford@sfc.ac.uk Nick Stansfeld
+nstansfeld@sfc.ac.uk Student representationLinda McLeod
+lmcleod@sfc.ac.uk Keith Coyne
+kcoyne@sfc.ac.uk  
+
+1A Blueprint for Fairness 
+2Opportunities for All Supporting all young people to participate in post-16 learning, training or work
+3Evaluation report for the SFC Early Adopter Programme
+4 Embedding equality in outcome agreements 
+5 Race Equality Framework for Scotland 
+6 College Outcome Agreement Guidance AY 2016-17 Annex H: National ambition for care experienced students
+7 Carers Trust ‘Going Higher’ campaign 
+8 SFC Gender Action Plan 
+9 Please note that it is not our intention to provide an Annex for this element of the Outcome Agreement every year.  This has simply been put in place to support a new element of the Outcome Agreement and to provide some background to the review of the ELS.
+---------------
+
+------------------------------------------------------------
+
+
+
+---------------
+
+------------------------------------------------------------
+
+
+
+1
+
+
+34
+
+
+36
+
+

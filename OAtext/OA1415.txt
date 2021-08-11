@@ -1,0 +1,480 @@
+words
+
+
+
+
+
+
+Delivering College Outcome Agreements (AY 2014-15)Issue date: 
+
+Summary:
+
+
+
+FAO:
+July 2013 published version 1
+
+This guidance announces the Scottish Funding Council’s timetable and process for 
+the negotiation of AY 2014-15 outcome agreements. It also sets out the process 
+for the monitoring of AY 2013-14 agreements.
+
+College PrincipalsFurther information:	
+Contact:  John Kemp
+Job title:  Director
+Tel:  0131 313 6637
+Email:  jkemp@sfc.ac.uk
+
+
+
+
+
+
+
+
+
+Scottish Funding Council
+Apex 2
+97 Haymarket Terrace
+Edinburgh
+EH12 5HD
+T 0131 313 6500
+F 0131 313 6501
+www.sfc.ac.uk
+
+
+Contents
+
+Introduction	1
+     Developing our approach	1
+Table 1: Key recommendations from the college outcome agreement evaluation event, May 2013	4
+The outcome agreement process	5
+Negotiation and engagement	6
+     Strategic dialogue meetings	7
+Monitoring	8
+     Self-evaluation	8
+     On-going monitoring	8
+     Quality arrangements	9
+Outcome setting and funding	11
+Timeline	13
+The AY 2014-15 outcome agreement	14
+     SFC priorities	14
+     Land-based provision	18
+Gaelic	18
+Employability……………………………………………………………………………………………19
+Alignment with Single Outcome Agreement (SOA) reporting	19
+Student engagement in the development of outcome agreements	20
+AY 2014-15 outcome agreement reporting	21
+     Capturing regional context	21
+     Outcome progress table	22
+     College Leaver Destination Survey	23
+Table 2: SFC’s National Performance Measures	25
+
+
+Introduction 
+
+1. This guidance has been produced to explain how the Scottish Funding Council (SFC) will go about negotiating an outcome agreement from 
+AY 2014-15.  It also explains how the AY 2013-14 outcome agreements will be monitored and how SFC will continue to work with colleges to develop its approach.
+
+2. Outcome agreements were introduced in AY 2012-13. They are intended to enable SFC and colleges to demonstrate the impact of the sector and its contribution to meeting Scottish Government priorities.
+
+3. Outcome agreements achieve this by building better relationships with colleges and key stakeholders to support:
+
+*    Increased accountability and confidence in the distribution of resources, ensuring that resources are targeted where there is greatest need
+
+*    Continuous improvement, to maximise college impact on the learner, the employer and the economy.
+
+4. The outcome agreement process is intended to enable:
+
+*     Relationship-based engagement, to ensure SFC’s decisions take account of the context within which colleges operate and so that SFC can differentiate its approach where it is appropriate
+
+*     Consistent methods of reporting through an outcome agreement document to ensure that a fair interpretation of college impact is made and to enable SFC to interpret impact consistently at a regional and national level
+
+*  	A means by which College regions can discuss with SFC their broader ambitions.
+
+    Developing our approach
+5. As part of SFC’s commitment to improving outcome agreements, we have made some important changes to the process from AY 2014-15. These changes are the result of detailed engagement with the sector, which included an evaluation of the AY 2013-14 process. Table 1 below summarises the key recommendations from the evaluation and shows how SFC has responded to improve the outcome agreement process.
+
+6. The most significant change from AY 2014-15 is the introduction of three-year outcome agreements. SFC will work with college regions on the most effective transition to three year agreements taking into account the scope of existing arrangements and planning cycles. Once introduced, three year agreements will be subject to annual adjustment through agreement between the college region and SFC.
+
+7. Three-year agreements are introduced along with changes to the outcome agreement template, which, in response to recommendations from the college thematic groups1, are to consist of two sections: a regional context statement and an outcome progress table.  Both of these are explained in detail at pages 23 to 25.
+
+8. These improvements are intended to simplify reporting, make the process clearer, more focussed and, therefore, easier for colleges when preparing their AY 2014-15 agreements.
+
+9. Outcome agreements covered by this guidance are, in most cases, for a region. For 10 of the 13 college regions the outcome agreement for AY 2014-15 will be with a single college serving that region. Some regions – Glasgow, Lanarkshire and the Highlands – will be multi-college regions and the body that is funded for the activity in those regions will be the regional strategic body as defined in the Post 16 Education (Scotland) Act 2013. As those bodies have not yet been created, negotiations will be with the current interim bodies and the colleges within these regions.    
+
+10. For Sabhal Mor Ostaig, SMO and Newbattle Abbey College which are specialist rather than regional colleges we recognise that certain aspects of this guidance will not apply. The outcome managers for these colleges will discuss this with the colleges.
+
+11. In the case of the Highlands and Scotland’s Rural College (SRUC) the college outcome agreement is contained within a tertiary outcome agreement. The outcome managers will agree in advance of negotiations which elements of the college and university guidance should be followed.
+
+12. SFC has been working with the regional leads and Colleges Scotland to develop ways to simplify its funding rules and to introduce a greater element of needs-based funding. That work has not been completed at the time of writing this guidance. However, the main elements are likely to be:
+
+*     On needs-based funding, we propose to build on the experience of the past few years and use a negotiation model rather than a formulaic allocation to determine any change in each region. The negotiations on the outcome agreement will be based on a robust, objective measure of need – that is, we would have a clear idea of which regions require more funding and which have a greater share than is justified. We will then use the outcome agreements, modest year-on-year shifts in funding (we plan that no region will drop by more than 1 per cent) and re-use of other funding as it becomes available to grow the areas that need to grow
+*     On simplification of funding we intend to replace the system of weighted student units of measurement ‘WSUMs’ with a system of measuring activity through ‘credits’. These will be in four or five bands and we will count a set number of credits as being a full time place. We will pay for credits delivered rather using our current – more complicated – systems.
+13. We are continuing to work with the sector on the details of the evidence base for needs-based funding and on the detail of simplification, but intend to conclude this in time for it to form the basis of the AY 2014-15 agreements. For that reason the references to volume of activity in SFC’s national measures later in this guidance are in credits rather than WSUMs. 
+
+
+
+
+Table 1: Key recommendations from the college outcome agreement evaluation event, May 2013
+Evaluation recommendationsSFC’s responseThe outcome agreement guidance needs to provide more information on the consequence of under delivery to provide reassurance to colleges and encourage more ambitious target setting.Additional information on funding, outcomes and consequence will be provided by SFC following the publication of this guidance.Outcome agreements should be multi-year documents updated annually.  For AY 2014-15 we should establish a three-year outcome agreement cycle.SFC has developed a new timeline from AY 2014-15, which establishes 
+three-year outcome agreements that are annually updated.
+
+The new timeline corresponds with changes to the outcome agreement document to simplify the on-going reporting.At the beginning of a three-year outcome agreement cycle, the sector and SFC should agree the Scottish-wide impact we hope to deliver.SFC will involve the college sector in discussions over the Scotland-wide impact to be delivered and how this relates to the ambitions of individual college regions.Targets and measures should align with those used by Education Scotland so that we’re measuring the same activity and the level of ambition is expressed consistently.
+To help inform SFC’s national performance measures, Education Scotland was represented within the college thematic group process and also at the national level discussions with Scottish Government.
+We have also worked to align our processes with those of Education Scotland to support each other’s work, reduce duplication and ensure benefit to learners and colleges.The outcome agreement process should involve joint working with Skills Development Scotland in terms of the planning and allocation of learner places supported by their employability fund.For AY 2014-15 SFC will work with SDS to align the planning of employability fund places within the outcome agreement process.
+
+The SFC will work with the Scottish Government as it develops its approach to the college element of the employability fund. Further advice on this will follow publication of this guidance.The outcome agreement process
+
+14. The outcome agreement process combines two elements:
+
+*     A relationship with an outcome agreement manager who acts as a single point of contact for college regions, advocating on their behalf and supporting and challenging them to make the most effective contribution to Scottish Government priorities
+
+*     Outcome agreement reporting - the means by which SFC understands a college region’s commitment to meeting Scottish Government priorities and the progress being made in return for financial investment.
+
+15. On behalf of SFC, the outcome agreement manager leads on the development and negotiation of an outcome agreement document with a college region.
+
+16. The outcome agreement document is a funding contract, whereby each college region sets out the:
+
+*     Regional context within which a college region operates
+
+*     Outcomes and outputs a college region will deliver, mindful of this context, in response to Scottish Government priorities.  In most instances these outcomes/outputs will correspond to SFC’s national performance measures.  They will be expressed consistently to aid regional and national aggregation and be set-out to include reference to a baseline position, current progress and a future ambition or target.
+
+17. Outcome agreements should be precise documents, strategic in outlook and primarily made up of measurable outcomes and outputs.  They are not promotional documents and should not rely on references to external strategic documents when evidencing either context or progress.
+
+Negotiation and engagement
+
+18. To support the outcome agreement process, SFC has outcome agreement managers for each college region.  They work with college regions to negotiate an outcome agreement and act as the first point of contact between a college region and SFC.
+
+19. Outcome agreement managers are expected to engage with a range of people across a college including with members of the SMT and those with a detailed understanding of the policies and processes under discussion. This breadth of engagement is intended to help develop relationships and build understanding between SFC and college regions.
+
+20. As part of this engagement it is the job of the outcome agreement manager to support and challenge college regions to help achieve Scottish Government priorities.
+
+21. SFC expects college regions to work with key stakeholders to ensure their proposed outcomes are complementary to those sought by others, such as local authorities, Community Planning Partnerships, SDS, higher education institutions, enterprise agencies and student associations. Outcome managers will seek their views as part of the engagement process.
+
+22. To build effective relationships and provide consistency of engagement, outcome agreement managers will discuss progress with college regions in three ways:
+
+*     Firstly, they will meet with colleges to discuss the outcome agreement process itself, which will include an initial discussion on interpreting this guidance.  This will be followed by meetings to discuss the development, completion and submission of the outcome agreement
+
+*     Secondly, SFC expects outcome agreement managers to engage with college regions to discuss issues of progress.  The focus of these engagements will be around evidence of impact.  This type of engagement would also provide an opportunity to discuss complexity, help explain particular progress challenges and provide support to colleges in their interactions with stakeholders
+
+*     Thirdly, SFC wants to support colleges to work with others to support the development and dissemination of best practice. For this reason, within each three-year cycle of outcome agreements, SFC will agree with the college sector, Education Scotland and the College Development Network its priority areas for collaborative approaches.  These will reflect the contribution of Education Scotland, the College Development Network and the challenges of the sector and will involve opportunities for collaborative engagement facilitated by SFC.  An outcome agreement manager will work with colleges to link the best practice back into improvements in outcomes.  SFC will ensure these discussions align with and avoid duplication of Education Scotland Aspect Tasks and make maximum use of the expertise and resources within the College Development Network.
+
+    Strategic dialogue meetings
+23. SFC recognises the potential complementarity that strategic dialogue meetings offer to the outcome agreement process and from February 2014 will introduce a new three-year cycle of meetings. The meetings will enable a discussion between college regions and SFC board members and the outcome agreement manager on the progress with outcome agreements as well as other issues pertinent to a college region’s strategic plan. This dialogue will support both SFC’s understanding of regional context and a college region’s progress in meeting Scottish Government priorities as well as a college region’s understanding of SFC’s strategic aims.  It also provides an opportunity for college regions to demonstrate their impact and highlight their ambitions.
+
+Monitoring
+24. The negotiation of the AY 2014-15 outcome agreements takes place at the same time as the consideration of progress and achievements with the AY 2012-13 agreements and the early progress of the AY 2013-14 agreements.  The two processes overlap so that progress informs future target setting.
+
+25. SFC will use the progress reporting to inform funding decisions, to aid negotiations over future outcome agreements, and to help inform national priorities and areas for collaboration.  This process is described in more detail in Annex A.
+
+26. While discussions over progress take place throughout the year, the monitoring process includes a number of key stages which are set out below.
+
+    Self-evaluation
+27. Although outcome agreements are now three-yearly there is still a requirement for college regions to account for the funding received in the preceding academic year and submit an annual self-assessment report in October each year.  In addition to accounting for the funding, the reporting of progress at this time naturally supports a college region in refining its outcome agreement within the three-year cycle.
+
+28. Outcome agreement managers will meet with college regions to discuss this progress report as part of the process of consolidating or updating their three-year agreement.  This will also help to inform SFC’s understanding of sector-wide progress, which in turn will inform future SFC priorities.
+
+29. This progress report sits alongside the annual report on college self-evaluation which is part of the quality assurance and enhancement requirements.  We expect these two reports to inform each other.
+
+30. Further information on how to complete a self-evaluation report is contained at Annex B.
+
+    On-going monitoring
+31. To assist with the monitoring of outcome agreements, we will continue to require college regions to provide quarterly data returns using the FES Online reporting system.
+
+32. We will discuss the details of data collection with college MIS teams and the MIS Community of Practice.
+
+33. The first data return will be required in the first week of December 2014, the second at end February 2015, the third in July 2015 and the final return in October 2015.
+
+34. As is currently the case, in the autumn of each year, SFC will confirm the returns using the final end of session FES data.
+
+    Quality arrangements
+35. Quality assurance and enhancement underpin the outcome agreement and remain continuing requirements and a condition of funding.
+
+36. There are well-established arrangements for the monitoring and evaluation of quality.  In particular, Colleges are to ensure that they have effective arrangements to maintain and enhance the quality of their learning provision, so that it continues to meet the requirements set by SFC in SFC/13/2012 – Council guidance to colleges on quality from August 2012. 2
+
+37. As well as enabling SFC to discharge its statutory duty for the assessment and enhancement of quality, the outputs from these quality arrangements inform and contribute to the monitoring of outcome agreements.
+
+38. The outcome agreement process recognises the continuing need for colleges to both assure and enhance quality and, in particular, that Education Scotland evaluates the quality of provision in relation to high quality learning, learner engagement and quality culture, through a range of external evaluative activities, including:
+
+*     External review
+
+*     Annual engagement visits
+
+*     Subject and thematic aspect tasks
+
+*     College HM Inspector visits
+
+*     The identification by Education Scotland of areas of potential risk and excellence in relation to high quality learning, learner engagement and quality culture.
+
+39. Education Scotland monitors and evaluates the quality of the learning experience and reports to SFC.  Education Scotland reaches judgements which are expressed in terms of effective/limited effectiveness/not effective.  In reaching these judgements Education Scotland uses its published External quality arrangements for Scotland’s colleges; updated August 2012.3 
+
+40. SFC and Education Scotland have distinct purposes in relation to monitoring and evaluating the performance of Scotland’s colleges.  SFC’s focus, through the work of outcome agreement managers, is on supporting improvements to colleges from the perspective of accountability for public funds.  Education Scotland’s focus, through the work of HM Inspectors (HMIs), is on evaluating the quality of the learner experience in order to inform and support improvement to it, taking into account the full range of college activities and processes which contribute to the learner experience.
+
+41. SFC and Education Scotland are committed to aligning their processes, in order to support each other’s work, reduce duplication and ensure benefit to learners and colleges.   Therefore, HMIs and outcome agreement managers will meet regularly to identify and exchange key intelligence.  Meetings will take place at key points in the monitoring cycle, for example at the time of  External Review, Outcome Agreement negotiation and monitoring, Annual Engagement Visits and so on.  HMIs and outcome agreement managers will also meet informally outwith these times to update each other about general developments within regions.  Where appropriate, HMIs and outcome agreement managers will identify instances where joint working between the HMI and outcome agreement manager would benefit the college or colleges in a region.  This might include liaison with other external stakeholders including the College Development Network officers attached to each region.  The scope and timing of such joint activity will be discussed and agreed by the HMI/outcome agreement managers in advance and communicated clearly to the college(s).
+
+Outcome setting and funding 
+42. To manage progress toward achieving Government priorities, funding for colleges will be negotiated annually. Funding is on condition that an outcome agreement meets the required standard, particularly in terms of the:
+
+*     Impact a college region will deliver
+
+*     Ambitions and appropriateness of outcomes and outputs
+
+*     Level of partnership support for its work.
+
+43. The achievement of the aspirations set out within an outcome agreement is the responsibility of a college region and SFC has a role to play in supporting college regions in their progress.
+
+44. In finalising outcome agreements, we recognise that college regions are working alongside others in the achievement of outcomes and so recognise the reasonable extent of their contribution.
+
+45. Future funding will be dependent upon delivery against outcomes, and negotiations in relation to past performance will be used to adjust funding.
+
+46. We will take a holistic judgement on the performance of each college region.  Evidence will be gathered on performance across the region and we will consider the application of financial penalties proportionate to the under-performance and according to SFC priority to which it impacts.  For example, a financial penalty applied to the SFC Priority 1 (Efficient regional structures) is likely to be substantial in its impact on transitional funding, given the level of resource involved and its importance to the achievement of other priorities.
+
+47. Decisions to reduce funding would be proportionate and based on holistic considerations of a college region’s performance rather than a mechanistic or formulaic reduction.
+
+48. Progress and funding will be discussed with individual college regions.  Each year as part of the monitoring of progress, SFC will use consistent measures to aggregate the impact of outcome agreements and will discuss this progress with the sector.
+
+49. Further information on SFC’s outcome-based funding decision making process will made available following the publication of this guidance.
+    
+Timeline
+50. Negotiations over the content of the AY 2014-15 outcome agreement will start in September 2013.
+
+51. A well-developed draft of the outcome agreement must be submitted to SFC by 29 November 2013.
+
+52. Outcome agreement managers will discuss potential amendments in December 2013.
+
+53. The final outcome agreement should be submitted by 10 January 2014.
+
+54. SFC will meet to approve outcome agreements and make indicative funding allocation decisions in January 2014. Allocations remain indicative at this time as the Scottish Government Budget will not be finalised until February.
+
+55. Following error checking and final verification, outcome agreements will be signed off before March 2014 and published in April 2014.
+
+56. As part of the annual refresh of agreements and annual approval of funding, this timeline will roll forward each year.
+
+57. Mindful of the fact that our final timeline will be influenced by a range of external factors outwith the control of SFC, the indicative timeline is as follows:
+
+ActivityDeadlineGuidance updated and publishedJuly 2013National dialogue with the sector to establish national aspirationsAugust 2013Negotiations startSeptember 2013Self-evaluation progress report on 12-13 submitted31 October 2013First draft outcome agreement submittedNovember 2013Amendments December 2013Indicative allocations announcedJanuary 2014Final Sign-off – final allocations announcedMarch 2014Publication of outcome agreementsApril 2014The AY 2014-15 outcome agreement
+
+    SFC priorities
+58. The Scottish Government’s post-16 education reform priorities are to: improve life chances; support jobs and growth; and ensure sustainable post-16 education.  The college sector will play a key role in delivering these priorities and outcome agreements will be used to demonstrate the contribution made by each region and the sector as a whole.
+
+59. SFC’s national priorities for AY 2014-15 are:
+
+SFC’s Strategic AimOutcome Agreement Priorities Efficient regional structures
+
+To deliver efficient regional structures to meet the needs of the region.* Successful implementation of recent and planned mergers
+* Good progress with structural change in regions that have not yet fully implemented change
+* Appropriate efficiency savings identified and applied as a result of mergers and other structural changes.High quality & efficient learning
+
+To ensure that learner journeys are as short, efficient and effective as possible and that learners experience the highest quality of learning and teaching and achieve successful outcomes.* Improvement in retention and the proportion of students successfully completing qualifications
+* Improvement in learner progression, in particular (but not only) from ‘non-recognised qualifications’ into work or certified learning.Access for people from the widest range of backgrounds
+
+To improve access to further and higher education for people from the widest possible range of backgrounds.* Increase the number of students articulating to university with advanced standing
+* Increase the proportion of SUMs delivered to learners from the 10% most deprived postcode areas
+* Increase (where under-represented) the participation of learners from protected characteristic groups
+* Provide meaningful further education for students with learning disabilities, and help such students get into employment
+* Ensure effective arrangements are in place to provide programmes geared towards improved employability for care leavers and learners with disabilities.Right learning in the right place
+
+To secure coherent provision of further and higher education in Scotland.* College regions plan for and deliver their contributions to Opportunities for All4 
+* Improve the range and spread of provision within and across each region, ensuring that provision (and infrastructure) is targeted towards the needs of the communities and employers in the region
+* Ensure there is a coherent spread of national/specialist provision (i.e. provision which meets a need that is much wider than that of a single region) – including (but not only) land-based provision
+* Support the National Gaelic Language Plan.A developed workforce
+
+To provide learners with the skills and knowledge they need to get a job or get a better job, keep a job and develop a career.* Enhance employer engagement, with evidence of clear outcomes such as greater input into the curriculum
+* Enhance colleges’ engagement with people particularly in terms of employability skills
+* Improve opportunities for work-based learning and training
+* Build capacity so that from summer 2014 all college regions will be able to report on the destinations of a high proportion of their full-time qualifiers.Sustainable institutions
+
+To secure, well-managed and financially and environmentally sustainable colleges.* College regions have in place appropriate and effective governance structures which ensure sound governance, internal control and risk management
+* College regions’ governing bodies have clear ownership of institutional sustainability
+* College regions have in place robust and coherent plans and processes for performance management and monitoring institutional sustainability
+* College regions explore and exploit opportunities to improve efficiency and effectiveness through collaborations and shared services
+* College regions comply with the terms of the Financial Memorandum with SFC.
+60. In delivering against these priorities SFC expects college regions to have particular consideration for the following:
+
+Access, equality and diversity
+
+61. SFC wants to improve people’s life chances by ensuring learners in Scotland, regardless of their background, are able to access the highest levels of educational provision and reach their full potential.  This is in line with the commitments set out in SFC’s equality outcomes and published on our website.5  Therefore, equality and diversity should be embedded throughout an outcome agreement and considered in relation to all of SFC’s priorities. 
+
+62. SFC wants all colleges to work with partners within a region to ensure learners with profound and complex needs are able to participate in meaningful further education.
+
+63. Meaningful further education for this group of learners is defined as a carefully managed transition process which will include:
+
+*     A systematic approach to the involvement of partnership agencies
+
+*     An informed judgement of an individual’s ability to learn in a college setting, matched to the learning programme and based on a thorough needs assessment
+
+*     A Personal Learning Support Plan detailing how learning support needs will be met, with due regard to Partnership Matters6
+
+*     Formal recognition of achievement
+
+*     Learning and teaching approaches which are sufficiently flexible to offer development from a learner’s known skills and qualifications base
+
+*     Individual support agreed and in place prior to a learner embarking on a learning programme
+
+*     Meaningful target setting built into the learning programme, including opportunities to share targets with partner agencies
+
+*     Appropriate methods for gaining learner feedback/listening to learners
+
+*     Effective monitoring of learning and teaching
+
+*     An exit strategy which is identified at the start of the learning programme and includes timescales, inbuilt review periods and potential progression routes, in consultation with appropriate partner agencies.
+
+64. Programmes for learners with profound and complex needs should contain formal recognition of achievement, which should be based on initial assessment, profiling and target setting.
+
+65. Colleges should have in place effective arrangements for care leavers in their area; have achieved or are working towards the Buttle UK quality mark (or equivalent) and are aware of the implications of the Children and Young People Bill for their region. Colleges should also have effective arrangements with other partners to deliver programmes designed to improve the employability of learners with disabilities.
+
+66. Since SFC requires all college regions to report their progress on widening access through their outcome agreement, currently there is no additional need for a separate widening access outcome agreement. However, following the Post-16 Education (Scotland) Act 2013, Scottish Ministers may require college regions to comply with a widening access agreement.
+
+67. To reflect the importance of progress in widening access to the Scottish Government, SFC will discuss with college regions the requirement for more detailed reporting where it is required.  This will also include reporting on collaborative activities to develop and promote effective practice. This is to help ensure we capture progress in relation to complex issues as well as to reflect the unique contribution different college regions will make to widening access.
+
+68. The Post-16 Education (Scotland) Act 2013 requires SFC to undertake a review of the extent to which progress is being made in enabling, encouraging and improving participation in further and higher education by persons belonging to socio-economic groups which are under-represented. This review will take place within three years from the commencement of the Post-16 Education (Scotland) Act 2013. College regions will be asked to contribute to this review individually or as part of collaborative initiatives, and may be required to provide additional information and evidence on progress to SFC. SFC will report the progress made to Scottish Ministers, regional strategic and post-16 education bodies.
+
+    Land-based Provision
+69. The provision of land-based education and training is not consistent with the regional model, as it is delivered in part through the regional college structures and in part by Scotland’s Rural College (SRUC). 
+
+70. SRUC therefore has a different status to that of other college providers, not only in that it is a tertiary institution (offering qualifications from non-advanced level right through to degree level and beyond), but also in that it provides for the needs of the land-based industries across Scotland as opposed to the wider education and training needs of a single region. Because of this, we have identified the need to establish a set of structures to facilitate the process of planning and co-ordinating land-based provision across the sector.
+
+71. We are working with SRUC and the other providers of land-based activity in the sector to agree a mechanism by which they will collaborate to ensure a coherent spread of provision which meets the needs of the land-based industries in Scotland. The land-based providers will collectively assess need on a national and regional basis, drawing upon their own engagement with employers and industry. On the basis of this assessment they will agree a collaborative approach to meeting the needs of employers, industry and students. SRUC will have a lead role in co-ordinating this process, given its status as national provider.
+
+72. SRUC and the other land-based providers will be asked to provide details in their Outcome Agreements of the collaborative process and any subsequent impact on provision.
+
+    Gaelic
+73. SFC is committed to supporting the development of the Gaelic language through our colleges. Some colleges play a role in supporting the language and we want to use outcome agreements to enhance this. Maintenance and development of provision for Gaelic learners and Gaelic speakers, and the means of contributing to the aims of the National Gaelic Language Plan (NGLP), should be considered in relation to all the key themes of the outcome agreement.
+
+74. The NGLP includes “strengthening the unique capacity in FE and HE to enrich the profile of Gaelic in Scotland” among its strategic priorities.  Its overall purpose is to secure an increase in the number of people learning, speaking and using Gaelic in Scotland.  SFC is committed to work with Bòrd na Gàidhlig on the implementation of the NGLP and, like several colleges, has its own Gaelic language plan (2009-14) produced under the Gaelic Language (Scotland) Act 2005.  
+
+75. Outcome agreements – where appropriate – should include reference to the National Gaelic Language Plan (NGLP) 2012-177 and college regions are asked to consider how they protect and build on their Gaelic provision. We recognise that some colleges will have a far larger role to play in this than others. We expect colleges to be able to demonstrate that they have considered the appropriate level of support for the language in their individual circumstances. 
+
+Employability
+
+76. In order to respond to the Scottish Government’s priorities of ‘improved life chances’ and ‘jobs and growth’, Council wants college regions to support unemployed people to develop employability skills to enable them to get a job, keep a job and or train for a career.  In particular, Council wants all college regions to set out in their outcome agreement their plans in relation to employability provision.
+
+77. SFC expects colleges to demonstrate that their employability offer is aligned to the Strategic Skills Pipeline, responds to the needs of local employability partners and retains a strong focus on positive outcomes.  Annex F describes this in more detail.
+
+    Alignment with Single Outcome Agreement (SOA) reporting
+78. SFC expects colleges to make an effective contribution to community planning.  Ideally, this includes having senior decision-makers actively participating at a strategic level in relevant Community Planning Partnerships (CPPs).
+
+79. SFC wants outcome agreements to demonstrate that colleges are informing the development of, and contributing effectively to, the delivery of Single Outcome Agreements (SOAs). Annex C describes this in more detail.
+
+    Student engagement in the development of outcome agreements
+80. Consistent with the approach to student engagement in quality, SFC expects colleges to show evidence of how the outcomes within the outcome agreements have been developed and discussed with the student body.  Where it is appropriate to do so, SFC will meet with students and appropriate representatives of the student body of each college region to discuss engagement and their views on the content of the agreement.
+
+81. In response to the emphasis placed by the Cabinet Secretary on the development of strengthened Student Associations, SFC will work in partnership with NUS (Scotland), Scottish Government and colleges in AY 2013-14 to support the sector in developing Student Associations consistent with the principles outlined by the Griggs Review. We intend to have the arrangements in place from AY 2014-15 onwards. This should contribute to more focused student engagement on outcome agreements in the future through the student representative body.
+
+AY 2014-15 outcome agreement reporting 
+82. In response to consultation feedback, from AY 2014-15 progress against SFC’s priorities is to be captured within a three-year outcome agreement, covering the period AY 2014-15 to AY 2016-17. In introducing this change, SFC recognises that different colleges will be at different stages in their strategic planning.  It is acceptable, therefore, for college regions to construct an agreement over a shorter or longer timeframe if appropriate.
+
+83. While outcome agreements will be refreshed each year and there will still be annual engagement with SFC, they will no longer need to be completely re-written each year.  We would expect colleges to consolidate or update the commitments in the agreement annually based on progress and – if appropriate – changing Government priorities.
+
+84. Following feedback from the college thematic groups, the new three-year outcome agreement is to consist of two distinct sections:
+
+*     A regional context statement, which provides the regional context for the ambitions set out in an outcome agreement (we do not expect this element to change much within a three-year agreement)
+
+*     An outcome progress table, which captures the baseline, targets and progress against national and regional performance measures (we expect this part to change each year in response to the progress made).
+
+    Capturing regional context 
+85. SFC expects regions to make achievable but stretching ambitions to deliver outcomes and meet the priorities set out above.  It is critical, therefore, that these ambitions are understood relative to the context of each unique college region.
+
+86. Each outcome agreement will capture information about its region in a regional context statement produced once at the beginning of a three-year cycle of outcome agreements.  This statement would show the contribution being made to more coherent provision in a region.  In particular, it would show how colleges in a region are meeting learner and employer need; how they prioritise courses according to the skills issues identified by ILG / Skills Action Plans; meet the needs of major employers in the region; and have given consideration to access and regional and national specialisms.
+
+87. To demonstrate how a college is responding to employer need, the regional context statement will include a description of a college region’s employer engagement ambitions.  An outline of the content of a regional context statement is attached as part of the outcome agreement template at Annex D.
+
+    Outcome progress table
+88. SFC is working toward an outcome-focussed approach to improve the outcomes for the individual learner and the Scottish economy as a whole.
+
+89. SFC wants outcome agreements to demonstrate how colleges contribute to a reduction in youth unemployment and improved life chances by bringing the right people into colleges to study; how colleges ensure provision meets national, regional and local learner and employer needs, and is delivered in an efficient way; and how learners are supported to complete their study, achieve successful outcomes in terms of the qualifications and skills gained, and, ultimately, achieve progression into employment.  These are the necessary stages that contribute to the achievement of successful outcomes for individuals and the economy.
+
+90. SFC is committed to better demonstrating the impact of the Scottish College sector both in terms of future impact - the aspirations set out in outcome agreements - and in measuring past impact - much of which can be done with existing statistics, although there are some areas that still need to be developed.
+
+91. SFC wants to be able to report on the impact promised in outcome agreements and later the impact delivered by the Scottish college sector. However, without consistent descriptions of aspirations, it is extremely difficult to demonstrate and talk about the impact the college sector will make at a national level.
+
+92. To achieve greater consistency, all college regions will report progress against the priorities set out above using SFC’s national performance measures. These measures have been developed by the college thematic groups and are set out in Table 2 below.
+
+93. Technical guidance for each of the measures will be published later this year.
+
+94. Progress against these measures is to be reported in an outcome progress table as part of the outcome agreement. This can be seen at Annex D. College regions are required to use the table to report consistently their baseline position, aspiration and progress for each of SFC’s national performance measures.  The table will also contain any other regional measures a college region wishes to capture, including those measures where we do not have consistent national data.
+
+95. SFC remains committed to not increasing the number of national measures and will continue to work with the sector to improve the existing list of measures, replacing, where possible, existing ones rather than adding to the total.
+
+96. To help ensure the outcome agreement delivers what the Government is seeking, and to help with the establishment of ambition within outcome agreements, we propose that at the beginning of a three-year cycle we agree with the sector the level of impact we want to deliver – based on Government and college priorities. Subsequent regional level discussion will then determine how different college regions will contribute to achieving this. This would establish a foundation for what overall national ambition is reasonable, based on evidence about the external environment and the progress made to date by colleges. 
+
+    College Leaver Destination Survey
+97. Recognising the need to develop the evidence base on learner outcomes, SFC intends to enhance (and slightly refocus) the First Destinations of Graduates (FDG) return to encompass all full-time qualifiers. The most significant change will be that this return will now include non-advanced qualifiers as well as those completing advanced level qualifications. In time, this will form the basis for SFC’s national performance measure 15 set out in Table 2 below.
+
+98. This will be developed and piloted with a selected group of colleges during 2013-14. The qualifiers of summer 2014 will be the first cohort to be surveyed using this approach.
+
+99. In order for this measure to be meaningful, it will be important to ensure that all college regions achieve a reasonable response rate on a year on year basis. So we will work with the sector during 2013-14 to build capacity so that all college regions are confident that they will achieve a meaningful response rate when the survey comes on-stream. 
+
+100. In future, once the survey is on-stream and the baseline has been established, we will expect to discuss college regions’ ambitions with respect to learner destinations as part of the outcome agreement process, and we will monitor progress on an annual basis in the same way that we do for other key measures. We will also issue more specific technical guidance to support this measure.
+
+
+
+
+
+
+
+
+
+
+Table 2: SFC’s National Performance Measures
+SFC Priorities
+National Measures 
+CommentsEfficient and sustainable regional structuresThe merger programme and other developments mean that college regions should be able to demonstrate significant efficiencies over the period of these outcome agreements. We want to see that evidenced through the outcome agreements.
+
+SFC has decided against establishing indicators for efficiency.  Instead, its focus is on effectiveness and ensuring college regions deliver the outcomes within their agreements in return for the public funding they receive.1. Non-SFC income as % of total income 
+2. Current assets: current liabilities ratio
+3. Days cash to expenditure
+
+4. Gross carbon footprint (three-year period) We are currently working through the implications of the ONS reclassification with Scottish Government and the college sector and these indicators will be revisited in the near future to reflect the ONS reclassification.
+
+
+Report over three-year trend and using extracts from EAUC Reporting Framework.Right learning right placeFor AY 2014-15 we intend to replace the system of weighted student units of measurement WSUMs with a system of measuring activity through credits. Student number5. Volume of credits delivered
+Priority groups6. Proportion of credits delivered to learners aged 16-19 and 20-24
+Colleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+7. Proportion of credits delivered to full-time learners aged 16-19 and 20-24
+Colleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+
+Access and equality8. Proportion of credits delivered to learners in the most deprived 10% postcodes areas in Scotland
+Colleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+9. Volume of credits relating to learners from different protected characteristic groups and care leavers (where data is available)
+Colleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+10. Volume of credits relating to learners with profound and complex needs enrolled on courses involving formal recognition of achievementColleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+Schools/College11. Volume of credits delivered to learners at S3 and above as part of ‘school-college’ provision
+Colleges are asked to provide this information in order to demonstrate how regional needs are being met.  
+
+High Quality Learning	Qualifications12. Percentage of enrolled students successfully achieving a recognised qualification
+
+To provide a fair representation of progression, colleges are able to contextualise their ambitions for different groups of learners within the regional need statement. Colleges are asked to capture withdrawal into employment through the FES return and reconcile this when reporting on impact.Progression13. Number and proportion of learners progressing from each of the different SCQF levels into a higher level of study within the same college
+At the present time SFC cannot measure progression within the region.  We recognise that this potentially under-records progression between colleges within a region.  College regions are asked to consider capturing this when reporting on their progress. 14. Number and proportion of successful students who have achieved HNC or HND qualifications articulating to degree level courses with advanced standing
+This data would be collected within the university sector.  This would be a shared outcome with the university sector.Destination & Employment15. Number and proportion of full-time college qualifiers in work, training and/or further study 3-6 months after qualifying (enhanced return to be developed and piloted through 2013-14; baseline to be set autumn 2014)
+Colleges are asked to continue to capture destination data at college level.  For full-time leavers SFC will introduce a national college leaver destination survey, which will collect destination data from AY 2015-16.
+A developed workforceEmployer engagement16. Number of all apprenticeships supported at the college (those eligible for SFC funding); the number of starts and forecast completions for direct contracted apprenticeships (e.g. in construction); the number of places delivered through SDS employability fund (EF) (starts and forecast completions) as a proportion of all the SDS EF places allocated in a region.This measure is intended to capture the full extent of college involvement in modern apprenticeship delivery. It also allows a college region to show the SDS places awarded relative to all the places awarded within the region. 
+17. Amount of all employer-related activity While mindful of the implications of ONS reclassification of colleges, this is intended to give an indication of employer engagement.
+18. Levels of non-SFC income generatedWhile mindful of the implications of the ONS reclassification of colleges, this is intended to give an indication of employer engagement.  It relates to income which is non-SFC public grant-aid funding. 
+19. Number of full-time learners with substantial placements (more than ten days) in business and industry
+This is intended to provide a measure of employer engagement in the curriculum, where it is relevant. There is not an expectation that all courses should have a work placement element.  Work placements should be relevant to course of study and quality assured.  
+
+1 The college thematic groups involved colleges and SFC executive collaborating to review how we measure impact across each of SFC’s outcome agreement priorities.  Further information on the college thematic groups can be found at: http://www.sfc.ac.uk/guidance/outcomeagreements/CollegeOAGuidance.aspx.
+2 http://www.sfc.ac.uk/newsinformation/Circulars/2012/SFC1312.aspx
+3 http://www.educationscotland.gov.uk/Images/External%20quality%20arrangements%201%20 August%202012_tcm4-727408.pdf
+4 http://www.scotland.gov.uk/Publications/2012/11/7618
+5 http://www.sfc.ac.uk/aboutus/our_conduct/Equality.aspx
+6 http://www.scotland.gov.uk/Topics/Education/UniversitiesColleges/17135/PartnershipMatters
+7 http://www.gaidhlig.org.uk/bord/en/national-plan-for-gaelic/
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+2
+
+
+26
+
+
+27
+
+
